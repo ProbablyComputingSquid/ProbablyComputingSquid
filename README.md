@@ -3,11 +3,12 @@ It is me, @ProbablyComputingSquid
 
 - 🔭 I’m currently working on something
 - 🌱 I’m currently learning R (augh)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with debugging
+- 💬 Ask me about my spaghetti code
 - 📫 How to reach me: computingsquid on discord
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: all code written by me is self documenting
+- ⚡ Useful Fact: everything is open source if you can read assembly - Low Level Languages
 <!--
 **ProbablyComputingSquid/ProbablyComputingSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
