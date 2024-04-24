@@ -1,14 +1,14 @@
 ### Hi there 👋
 It is me, @ProbablyComputingSquid
 
-- 🔭 I’m currently working on something
+- 🔭 I’m currently working on a Ruby PYSON implementation
 - 🌱 I’m currently learning R (augh)
 - 🤔 I’m looking for help with debugging
 - 💬 Ask me about my spaghetti code
 - 📫 How to reach me: computingsquid on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: all code written by me is self documenting
-- ⚡ Useful Fact: everything is open source if you can read assembly - Low Level Languages
+- ⚡ Useful Fact: Everything is open source if you can read assembly
 <!--
 **ProbablyComputingSquid/ProbablyComputingSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
