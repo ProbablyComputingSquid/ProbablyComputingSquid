@@ -1,7 +1,7 @@
 ### Hi there 👋
 It is me, @ProbablyComputingSquid
 
-- 🔭 I’m currently working on a Ruby PYSON implementation
+- 🔭 I’m currently working on my AP world homework
 - 🌱 I’m currently learning R (augh)
 - 🤔 I’m looking for help with debugging
 - 💬 Ask me about my spaghetti code
