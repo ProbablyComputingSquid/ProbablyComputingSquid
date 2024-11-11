@@ -1,7 +1,7 @@
 ### Hi there 👋
-It is me, @ProbablyComputingSquid
+It is me, @ProbablyComputingSquid<br>
 Time spent coding since October 31st, logged with wakatime
-https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07F3DZ7PU2/interval:all_time&label=All%20time&color=blue
+![stats](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07F3DZ7PU2/interval:all_time&label=All%20time&color=blue)
 - 🔭 I’m currently working on my AP world homework
 - 🌱 I’m currently learning Java again
 - 🤔 I’m looking for help with debugging
