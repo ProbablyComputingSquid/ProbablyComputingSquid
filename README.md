@@ -1,25 +1,11 @@
 ### Hi there 👋
 It is me, @ProbablyComputingSquid
-
+Time spent coding since October 31st, logged with wakatime
+https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07F3DZ7PU2/interval:all_time&label=All%20time&color=blue
 - 🔭 I’m currently working on my AP world homework
-- 🌱 I’m currently learning R (augh)
+- 🌱 I’m currently learning Java again
 - 🤔 I’m looking for help with debugging
 - 💬 Ask me about my spaghetti code
 - 📫 How to reach me: computingsquid on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: all code written by me is self documenting
-- ⚡ Useful Fact: Everything is open source if you can read assembly
-<!--
-**ProbablyComputingSquid/ProbablyComputingSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Everything is open source if you can read assembly
